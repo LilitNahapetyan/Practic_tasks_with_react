@@ -1,0 +1,23 @@
+.recordInfo{
+  border:1px solid black;
+  padding: 4px;
+  margin: 8px;
+}
+
+.imagecontainer{
+  display: flex;
+  flex-wrap: wrap;
+  gap:8px;
+}
+.imageCard{
+  width: 200px;
+  height: 300px;
+}
+.cardImg{
+  width: inherit;
+  max-height: 200px;
+}
+
+.activePage{
+  background-color: aqua;
+}
